@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ignuanth.github.io/sitemap.xml
+Sitemap: https://ignuanth.github.io/app/sitemap.xml
+Sitemap: https://ignuanth.github.io/assets/sitemap.xml
+Sitemap: https://ignuanth.github.io/css/sitemap.xml
+Sitemap: https://ignuanth.github.io/includes/sitemap.xml
+Sitemap: https://ignuanth.github.io/item/sitemap.xml
+Sitemap: https://ignuanth.github.io/src/sitemap.xml
